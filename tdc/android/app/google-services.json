@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929140423166",
+    "project_id": "tdc-app-ae6c8",
+    "storage_bucket": "tdc-app-ae6c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929140423166:android:9f31918b9a3240b28aa8af",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPGpISE1ktoRYd5ryE8SO28P3wYn6nRRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
